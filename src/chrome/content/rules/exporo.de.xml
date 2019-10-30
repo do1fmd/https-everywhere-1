@@ -1,0 +1,7 @@
+<ruleset name="exporo.de">
+        <target host="*.exporo.de" />
+        <target host="exporo.de" />
+
+        <rule from="^http:"
+                to="https:" />
+</ruleset> 
